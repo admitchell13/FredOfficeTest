@@ -8,10 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@/components/ui": "latest",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "lucide-react": "^0.263.1",
     "mongoose": "^6.0.12",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "nodemailer": "^6.9.1"
   }
+}
